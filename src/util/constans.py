@@ -1,0 +1,5 @@
+# Constants for charges
+TRIP_CHARGES = 2.0
+PENALTY_CHARGES = 5.0
+DAILY_CAP = 15.0
+MONTHLY_CAP = 100.0
